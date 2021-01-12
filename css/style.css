@@ -4,11 +4,23 @@
 .panda-card-footer{
     border: 0px;
     background-color: white;
+    border-radius: 2em;
 }
 .cetegorios img{
   width: 100%;
-  border-radius: 20px;
+  border-radius: 40px;
 }
 .panda-slite .carousel-item{
-    background-color: rgb(226, 216, 226);
+    background-color: #feeae9;
+    border-radius: 10px!important;
+
+
+}
+.common{
+    border-radius: 20px!important;
+
+}
+
+.panda-img{
+    height: 220px;
 }

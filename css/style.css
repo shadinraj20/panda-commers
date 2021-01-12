@@ -1,0 +1,14 @@
+.panda-cardd{
+    border:0px;
+}
+.panda-card-footer{
+    border: 0px;
+    background-color: white;
+}
+.cetegorios img{
+  width: 100%;
+  border-radius: 20px;
+}
+.panda-slite .carousel-item{
+    background-color: rgb(226, 216, 226);
+}
